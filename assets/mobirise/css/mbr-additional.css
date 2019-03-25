@@ -1742,13 +1742,16 @@ body {
   stroke: rgba(206, 206, 206, 0.4);
 }
 .cid-reQSF1l7VS path {
-  stroke: #149dcc;
+  stroke: #fd6e92;
 }
 @media (max-width: 991px) and (min-width: 768px) {
   .cid-reQSF1l7VS .card {
     -webkit-flex-basis: 33%;
     flex-basis: 33%;
   }
+}
+.cid-reQSF1l7VS .mbr-section-subtitle I {
+  color: #4f4943;
 }
 .cid-rikEEqjoTc {
   padding-top: 75px;
@@ -2299,6 +2302,9 @@ body {
 }
 .cid-rhbx2p9ScD {
   background-image: url("../../../assets/images/anim-gameplay.gif");
+}
+.cid-rhbx2p9ScD H3 {
+  color: #67e9d0;
 }
 .cid-rhbwYv5el3 {
   padding-top: 30px;
@@ -3194,6 +3200,9 @@ body {
 }
 .cid-rjNXt9Wx3F .mbr-text,
 .cid-rjNXt9Wx3F .mbr-section-btn {
+  color: #fcc12e;
+}
+.cid-rjNXt9Wx3F H3 {
   color: #fafafa;
 }
 .cid-rifYTiq9ic {
@@ -3749,6 +3758,10 @@ body {
 }
 .cid-rjJbqjy3YS H1 {
   color: #fafafa;
+}
+.cid-rjJbqjy3YS .mbr-text,
+.cid-rjJbqjy3YS .mbr-section-btn {
+  color: #fd6e92;
 }
 .cid-rgwS95AtBh {
   padding-top: 15px;
