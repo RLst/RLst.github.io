@@ -1715,44 +1715,6 @@ body {
 .cid-rfL1MNcWF9 .mbr-text DIV {
   text-align: left;
 }
-.cid-reQSF1l7VS {
-  padding-top: 15px;
-  padding-bottom: 30px;
-  background-color: #f6f6f6;
-}
-.cid-reQSF1l7VS h3 {
-  text-align: center;
-  font-weight: 300;
-}
-.cid-reQSF1l7VS .wrap {
-  width: 150px;
-  height: 150px;
-  margin: 0 auto;
-}
-.cid-reQSF1l7VS .mbr-section-subtitle {
-  color: #767676;
-  text-align: center;
-}
-.cid-reQSF1l7VS .card {
-  -webkit-flex-basis: 100%;
-  flex-basis: 100%;
-  word-wrap: break-word;
-}
-.cid-reQSF1l7VS ellipse {
-  stroke: rgba(206, 206, 206, 0.4);
-}
-.cid-reQSF1l7VS path {
-  stroke: #fd6e92;
-}
-@media (max-width: 991px) and (min-width: 768px) {
-  .cid-reQSF1l7VS .card {
-    -webkit-flex-basis: 33%;
-    flex-basis: 33%;
-  }
-}
-.cid-reQSF1l7VS .mbr-section-subtitle I {
-  color: #4f4943;
-}
 .cid-rikEEqjoTc {
   padding-top: 75px;
   padding-bottom: 45px;
