@@ -4694,19 +4694,26 @@ body {
 .cid-rsz9HWFqiV .dropdown-item:hover {
   color: #fde5a7 !important;
 }
-.cid-rsz9HXrLeg {
-  padding-top: 135px;
-  padding-bottom: 135px;
+.cid-rsDH4eV8Qj {
+  padding-top: 120px;
+  padding-bottom: 120px;
+  background-image: url("../../../assets/images/dirtychefyogacard-2000x1128.png");
 }
-.cid-rsz9HXrLeg H1 {
+.cid-rsDH4eV8Qj H1 {
   color: #fcc12e;
 }
-.cid-rsz9HXrLeg .mbr-text,
-.cid-rsz9HXrLeg .mbr-section-btn {
-  color: #fcc12e;
+.cid-rsDGYNTqi4 {
+  background: #ffffff;
+  padding-top: 45px;
+  padding-bottom: 0px;
 }
-.cid-rsz9HXrLeg H3 {
-  color: #fafafa;
+.cid-rsDGYNTqi4 .video-block {
+  margin: auto;
+}
+@media (max-width: 768px) {
+  .cid-rsDGYNTqi4 .video-block {
+    width: 100% !important;
+  }
 }
 .cid-rsz9HXYZ5Y {
   padding-top: 15px;
@@ -5115,8 +5122,7 @@ body {
   color: #fde5a7 !important;
 }
 .cid-rsz9FnjdUW {
-  padding-top: 135px;
-  padding-bottom: 135px;
+  background-image: url("../../../assets/images/oglcgcard.gif");
 }
 .cid-rsz9FnjdUW H1 {
   color: #67e9d0;
