@@ -6500,12 +6500,11 @@ body {
 }
 .cid-rK5MOXuiwN {
   background: #2e2e2e;
-  padding-top: 0px;
-  padding-bottom: 0px;
   background: linear-gradient(0deg, #2e2e2e, #635a51);
 }
 .cid-rK5MOXuiwN .video-block {
   margin: auto;
+  width: 100% !important;
 }
 @media (max-width: 768px) {
   .cid-rK5MOXuiwN .video-block {
@@ -6647,6 +6646,7 @@ body {
 }
 .cid-rG0g68riso .mbr-text {
   color: #767676;
+  text-align: left;
 }
 .cid-rG3AHMCIdY {
   padding-top: 15px;
